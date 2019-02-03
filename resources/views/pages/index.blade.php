@@ -1,20 +1,9 @@
 @extends('layouts.design')
 
 @section('content')
-
-<div class="row big-banner">
 	
-	<div class="col-md-8">
-
-		
+	<div class="card">
+		<div class="card-header">Welcome</div>
 	</div>
-
-	<div class="col-md-4">
-
-		
-		
-	</div>
-
-</div>
 
 @endsection
